@@ -29,7 +29,7 @@ const Footer = () => {
                     </a>
                 </div>
                 <div id="row1" className="row">
-                    Recommender system created by SMDCUP
+                    created by SMDA
                 </div>
             </div>
         </footer>

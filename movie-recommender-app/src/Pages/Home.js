@@ -80,7 +80,7 @@ const Home = () => {
                     <SearchBar movies={list} placeholder="Search for a Movie" />
                 </div>
 
-                <h2 className="genreHeader">Recommendation for movie based on top of the rank </h2>
+                <h2 className="genreHeader">Rank-based movie recommender</h2>
                 <div className="buttonGrid">
                     {homeGenreList.map((genre) => (
                         <div

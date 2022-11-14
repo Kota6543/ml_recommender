@@ -57,7 +57,7 @@
 .genreTagOFF {
     color: #fff !important;
     padding: 10px 20px;
-    background-color: #ef233c;
+    background-color: #5259da;
     border-radius: 20px;
     margin-left: 3px;
     margin-right: 3px;
@@ -65,7 +65,7 @@
     margin: 4px 5px;
 }
 .genreTagOFF:hover {
-    background-color: #a4161a !important;
+    background-color: #2c3078 !important;
 }
 .container-fluid {
     padding: 0;
